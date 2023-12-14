@@ -6,5 +6,5 @@ To use it:
 
 1. Paste tickers in the marked columns.
 2. Press the button that pulls out the accounting data from Bloomberg
-3. Generate a detailed sheet for each ticker one-by-one.
+3. Generate a detailed sheet for each ticker one by one.
   
